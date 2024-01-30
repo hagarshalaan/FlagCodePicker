@@ -54,7 +54,7 @@ publishing {
         create<MavenPublication>("maven") {
             groupId = "com.github.hagarshalaan"
             artifactId = "FlagCodePicker"
-            version = "1.0.4"
+            version = "1.0.5"
 
 //            from(components["java"])
 //            afterEvaluate { artifact(tasks.getByName("bundleReleaseAar"))
